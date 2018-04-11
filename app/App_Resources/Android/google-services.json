@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782981085060",
+    "firebase_url": "https://pushnotification-97a8f.firebaseio.com",
+    "project_id": "pushnotification-97a8f",
+    "storage_bucket": "pushnotification-97a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782981085060:android:23644db93bd954b3",
+        "android_client_info": {
+          "package_name": "com.safike.mikarenomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782981085060-t3uura3emrpi6mtte289mm3557ric5bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXs_RO9cv0qI7knlZkOUKZacZsckw_v8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

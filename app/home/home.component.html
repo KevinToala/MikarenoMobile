@@ -1,0 +1,14 @@
+<Page>
+    <ActionBar title="Mensajes"></ActionBar>
+
+    <ListView [items]="mensajes | async" #ListMensajes>
+        <ng-template let-mensaje="item">
+            <StackLayout>
+                <Label [text]='mensaje.title' textWrap="true"></Label>
+                <Label style="font-weight: bold"
+                       [text]='"Notificador: " + mensaje.sender'>
+                </Label>
+            </StackLayout>
+        </ng-template>
+    </ListView>
+</Page>
